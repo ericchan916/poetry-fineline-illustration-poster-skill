@@ -2,6 +2,15 @@
 
 输入一首古诗词，生成一张新中式细线设色装饰插画海报：高俯视、散点透视、云团树冠、工笔建筑、大面积留白，教科书级精致插画。
 
+
+## 作品展示 · Gallery
+
+| | | |
+|---|---|---|
+| <img src="assets/01.png" width="260"> | <img src="assets/02.png" width="260"> | <img src="assets/03.png" width="260"> |
+| <img src="assets/04.png" width="260"> | <img src="assets/05.png" width="260"> | <img src="assets/06.png" width="260"> |
+| <img src="assets/07.png" width="260"> | <img src="assets/08.png" width="260"> |  |
+
 ## 它能做什么
 - 把诗中的景物、动作与情感转化为有清晰叙事的东方场景
 - 只给诗名也能用：自动提取核心场景、关键意象与视觉关系
